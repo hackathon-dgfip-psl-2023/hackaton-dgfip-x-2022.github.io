@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "fr-FR" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    
+    <div class="wrapper">
+      
+      <!--Le header suivant correspond a la colonne de gauche dans le template Minimal -->
+      <header>
+
+<!-- Logo MEFR -->
+        {% if site.logo_mefr %}
+          <img src="{{site.logo_mefr | relative_url}}" alt="Logo Ministère de l'Économie, des Finances et de la Relance" />
+          <br/>
+        {% endif %}
+        
+        
+<!-- Logo DGFIP -->
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo Direction Générale des Finances Publiques" />
+          <br/>
+        {% endif %}
+
+<!-- Description accueil -->
+          <br/>
+        <p style="font-weight: bold; font-size: 14px">{{ site.description | default: site.github.project_tagline }} </p>
+          <br/>
+        
+        <h3><a href="#i-qui-sommes-nous-">I. Qui sommes-nous ?</a></h3>
+        <h3><a href="#ii-appel-à-projets">II. Appel à projets</a></h3>
+        <h3><a href="#iii-rendu-attendu">III. Rendu attendu</a></h3>
+        <h3><a href="#iv-contact">IV. Contacts</a></h3>
+        <h3><a href="#v-faq">V. FAQ</a></h3>
+        
+
+      </header>
+      <!--Fin Header Colonne Gauche -->
+      
+      
+      <!--La section suivante renvoit au contenu de index.html -->
+      <section>
+        {{ content }}
+      </section>
+      <!--Fin index.html -->
+  
+      <footer>
+          <!-- None  -->
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

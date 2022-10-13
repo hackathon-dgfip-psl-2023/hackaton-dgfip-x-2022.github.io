@@ -1,5 +1,4 @@
-![Logo du hackaton](/docs/assets/images/logo-x2.png)
-![Logo du hackaton2](/docs/assets/images/logo-x.jpg)
+![Logo du hackaton](/docs/assets/images/logo-final-x.png)
 
 ### Bonjour à tous 👋
 

@@ -181,19 +181,21 @@ Répartition des lots : la responsabilité de la répartition des lots au sein d
 
 8.1 – Le participant s’engage à fournir, dans son formulaire d’inscription à l’appel à projet, des informations réelles et sérieuses le concernant.
 
-8.2 – Le participant est seul responsable de ses matériels et logiciels, dont il conserve la garde, et des éventuels dommages qui pourraient survenir sur ses matériels et logiciels dans le cadre de l’Appel à Projet Open Data de la DGFiP.
+8.2 – Le participant s’engager à signer la charte du participant communiqué en annexe avant le début du hackathon 2022 et à respecter toutes les obligations décrites dans la charte susmentionnée.
 
-8.3 – Le participant déclare et garantit à la DGFiP qu’elle dispose de l’intégralité et de l’exclusivité des droits de propriété intellectuelle afférents aux créations constitutives du projet qu’il réalise dans le cadre de l'appel à projet et à sa documentation afférente, ou qu’il est dûment autorisé à agir au nom et pour le compte du ou des autres titulaire(s) des droits sur ce projet et sur la documentation afférente.
+8.3 – Le participant est seul responsable de ses matériels et logiciels, dont il conserve la garde, et des éventuels dommages qui pourraient survenir sur ses matériels et logiciels dans le cadre de l’Appel à Projet Open Data de la DGFiP.
+
+8.4 – Le participant déclare et garantit à la DGFiP qu’elle dispose de l’intégralité et de l’exclusivité des droits de propriété intellectuelle afférents aux créations constitutives du projet qu’il réalise dans le cadre de l'appel à projet et à sa documentation afférente, ou qu’il est dûment autorisé à agir au nom et pour le compte du ou des autres titulaire(s) des droits sur ce projet et sur la documentation afférente.
 
 Le participant garantit la DGFiP contre tout recours de tiers à cet égard et reconnaît être informé qu’il sera tenu pour seul responsable en cas de violation de la présente obligation de garantie.
 
 Ces déclarations et garanties couvrent l’intégralité des éléments du livrable.
 
-8.4 – La DGFiP se réserve le droit d’écourter, modifier ou annuler le présent appel à projet à tout moment, sans préavis et sans qu’il puisse être prétendu à aucune indemnité par les participants.
+8.5 – La DGFiP se réserve le droit d’écourter, modifier ou annuler le présent appel à projet à tout moment, sans préavis et sans qu’il puisse être prétendu à aucune indemnité par les participants.
 
 Leur responsabilité ne saurait être engagée du fait de ces modifications, ni celle de la DGFiP.
 
-8.5 – Il est expressément rappelé qu’Internet n’est pas un réseau sécurisé. La DGFiP ne saurait donc être tenue pour responsable de la contamination par d’éventuels virus ou de l’intrusion d’un tiers dans le système terminal des participants et décline toute responsabilité quant aux conséquences de la connexion des participants au réseau Internet.
+8.6 – Il est expressément rappelé qu’Internet n’est pas un réseau sécurisé. La DGFiP ne saurait donc être tenue pour responsable de la contamination par d’éventuels virus ou de l’intrusion d’un tiers dans le système terminal des participants et décline toute responsabilité quant aux conséquences de la connexion des participants au réseau Internet.
 
 Il appartient à tout participant de prendre toutes les mesures appropriées de façon à protéger ses propres données et/ou logiciels stockés sur son équipement informatique contre toute atteinte.
 
@@ -294,20 +296,3 @@ Les parties s'efforceront de résoudre à l'amiable tout différend né de la va
 ### Article 16 – Loi applicable et opposabilité du règlement :
 
 Le présent règlement est soumis au droit français. Le fait de s’inscrire et de participer à l'Appel à Projet Open Data de la DGFiP implique l’acceptation sans réserve du présent règlement.
-
-# Annexes
-
-### Sujets de l’appel à projet
-
-1 - “La couverture du territoire par les structures DGFiP est-elle optimale et assure-t-elle un égal accès de tous au service public ?”. Ce sujet est élaboré à partir du jeu de données des Coordonnées des Structures DGFiP.
-
-2 - “La proportion d'entreprises propriétaires de leurs locaux sur un territoire est-elle un marqueur de bonne santé économique ?”.
-
-3 - Sujet Libre à partir de n’importe quels jeux de données de la DGFiP publié sur [data.Economie.gouv.fr](http://data.economie.gouv.fr/).
-
-### Calendrier Détaillé
-
-- Date limite de dépôt des inscriptions : 29 Avril 2022 à 23h59
-- Date limite de dépôt des projets : 22 Mai 2022 à 23h59
-- Jury de sélection des lauréats : 26 Mai 2022
-- Événement Open Data DGFiP : 3 Juin 2022

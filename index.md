@@ -193,4 +193,4 @@ ___
 
 ## V. Charte du participant
 
-**Consulter la [Charte du participant](https://github.com/hackaton-dgfip-2022/hackaton-dgfip-2022.github.io/blob/main/R%C3%A8glement.md)**
+**Consulter la [Charte du participant](https://github.com/hackaton-dgfip-x-2022/hackaton-dgfip-x-2022.github.io/blob/master/Hackathon_Charte%20du%20participant-V1.odt?raw=true)**

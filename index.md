@@ -184,7 +184,7 @@ ___
 
 > Des questions sur l’appel à projets ? Besoin d’informations complémentaires ?
 > 
-> **Contactez-nous à : [dtnum.donnees.open-data@dgfip.finances.gouv.fr](mailto:dtnum.donnees.open-data@dgfip.finances.gouv.fr)**
+> **Contactez-nous à : [dtnum.communication@dgfip.finances.gouv.fr](mailto:dtnum.communication@dgfip.finances.gouv.fr)**
 >
 > **Consulter le [réglement](https://github.com/hackaton-dgfip-2022/hackaton-dgfip-2022.github.io/blob/main/R%C3%A8glement.md)**
 

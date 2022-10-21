@@ -180,7 +180,8 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 ___
 
 
-# IV. Réglement et Contact 
+# IV. Réglement et Contact   
+
 
 ## RÈGLEMENT - Version au 14 Octobre 2022
 

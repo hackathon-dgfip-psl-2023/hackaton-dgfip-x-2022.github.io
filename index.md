@@ -182,9 +182,9 @@ ___
 
 # IV. Réglement et Contact 
 
-# RÈGLEMENT - Version au 14 Octobre 2022
+## RÈGLEMENT - Version au 14 Octobre 2022
 
-# RÈGLEMENT DE L’APPEL À PROJET OPEN DATA DE LA DGFiP
+## RÈGLEMENT DE L’APPEL À PROJET OPEN DATA DE LA DGFiP
 
 ### Préambule :
 

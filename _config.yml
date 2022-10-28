@@ -3,7 +3,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Hackaton Open Data DGFiP 2022
 logo: /docs/assets/images/logo_dgfip.svg
 logo_mefr: /docs/assets/images/logo_mefr.jpg
-description: Bienvenue sur la page de présentation du Hackaton Open Data de la DGFiP 2022
+description: Bienvenue sur la page de présentation du Hackaton de la DGFiP 2022
 
 tz: Europe/Paris
 encoding: UTF-8

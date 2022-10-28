@@ -86,7 +86,7 @@ Les équipes devront restituer leurs productions dans qui leur sera communiqué 
 
    **- Solution technique**
 
-Si le livrable des candidats consiste en une visualisation (Neo4j, TigerGraph ou autre)
+Si le livrable des candidats consiste en une visualisation (Neo4j, TigerGraph ou autre).
 
 Si le livrable des candidats contient du code R, Python (ou autre), l’ensemble des sources produites devront être déposées sur le repository Github de l’équipe.
 
@@ -98,18 +98,18 @@ Un document explicatif au format vidéo (maximum 3 minutes) ou PDF (maximum 20 p
   - Une explication de la démarche poursuivie
   - Une problématique formulée sous la forme d’une question. 
 
-NB:  Cela est nécessaire dans le cadre du choix du sujet Libre. S’agissant des deux autres sujets, les participants ont la possibilité d’amender la question initiale s’ils l’estiment justifié. 
+NB : cela est nécessaire dans le cadre du choix du sujet Libre. S’agissant des deux autres sujets, les participants ont la possibilité d’amender la question initiale s’ils l’estiment justifié.
 
-  - Un bref descriptif de la solution mise en oeuvre pour y répondre
+  - Bn bref descriptif de la solution mise en œuvre pour y répondre.
 
-Ce document pourra être enrichi par tout élément ou réflexion que les participants jugent pertinents (Utilisateurs pressentis, cas d’usage identifiés, qualité de la donnée source,  etc…)
+Ce document pourra être enrichi par tout élément ou réflexion que les participants jugent pertinents (utilisateurs pressentis, cas d’usage identifiés, qualité de la donnée source, etc.)
 
    **- Documentation technique (PDF ou Markdown)**
 
 Une documentation technique au format PDF ou Markdown contenant a minima les éléments suivants :
-  - Une présentation des choix techniques faits
-  - Les instructions nécessaires à la reproduction de la solution
-  - la liste de chacune des sources de données exploitées, l’url de celles-ci, ainsi que les mentions légales relatives à la réutilisation de ces jeux de données selon leur licence. 
+  - une présentation des choix techniques faits ;
+  - les instructions nécessaires à la reproduction de la solution ;
+  - la liste de chacune des sources de données exploitées, l’url de celles-ci, ainsi que les mentions légales relatives à la réutilisation de ces jeux de données selon leur licence.
 
 ### B. Jury 
 

@@ -225,31 +225,28 @@ L’appel à projet se déroule pendant une période précisée dans la partie "
 
 ### 5.2 – Rendu :
 
-Le rendu doit s'effectuer sur un *repository Github* du nom de l'équipe. Ce repository sera créé par les organisateurs après validation de l'inscription de l'équipe.
+Le rendu doit s'effectuer sur un repository Github du nom de l'équipe. Ce repository sera créé par les organisateurs après validation de l'inscription de l'équipe.
 
 Selon les choix faits par les participants, le rendu devra contenir :
 
-- L'ensemble du code source produit
-- Un lien vers le ou les DashBoard Tableau publiques produits le cas échéant, comportant le label #openDataDGFiP
+- l'ensemble du code source produit ;
+- un lien vers le ou les DashBoard Tableau publiques produits le cas échéant, comportant le label #openDataDGFiP.
 
 En tout état de cause, chaque rendu devra contenir a minima:
 
-- Un document de synthèse (ci-après désigné "le document de synthèse") au format PDF ou vidéo comportant : 
-    - une explication de la démarche poursuivie
-    - la formulation d'une problématique explicite sous la forme d'une question.
-    - un bref descriptif de la solution mise en oeuvre pour y répondre
+- un document de synthèse (ci-après désigné "le document de synthèse") au format PDF ou vidéo comportant :
+    - une explication de la démarche poursuivie ;
+    - la formulation d'une problématique explicite sous la forme d'une question ;
+    - un bref descriptif de la solution mise en œuvre pour y répondre.
 
-Dans le cas d'un rendu au format vidéo, il ne devra pas excéder 3 ('trois') minutes.
-Dans le cas d'un rendu au format PDF, il ne devra pas excéder 20 ('vingt') pages.
+Dans le cas d'un rendu au format vidéo, il ne devra pas excéder 3 ('trois') minutes. Dans le cas d'un rendu au format PDF, il ne devra pas excéder 20 ('vingt') pages.
 
 *Les participants sont libres de produire s'ils le souhaitent une vidéo et un pdf explicatif.*
 
-- Une documentation technique (ci-après désignée "la documentation technique") au format Markdown ou PDF.
+Dne documentation technique (ci-après désignée "la documentation technique") au format Markdown ou PDF. Cette documentation technique devra contenir a minima :
 
-Cette documentation technique devra contenir *a minima* :
-
-- les instructions nécessaires à l'installation et à la reproduction de la solution technique
-- une présentation étayée des choix techniques retenus si pertinent
+- les instructions nécessaires à l'installation et à la reproduction de la solution technique ;
+- une présentation étayée des choix techniques retenus si pertinents ;
 - la liste de chacune des sources de données exploitées, leur url, licence, et la reproduction des mentions légales relatives à la réutilisation de ces jeux de données selon leur type de licence.
 
 
@@ -271,9 +268,9 @@ Les participants sont alertés sur le fait que la composition du jury telle qu'a
 
 Le jury évaluera les projets soumis par les participants de l’Appel à Projet Hackathon en fonction de différents critères, énoncés ci-après : 
 
-- Pertinence par rapport au thème général, intérêt pour la DGFiP, portée et impact pour les utilisateurs (40 % de la note);
-- Qualité technique : exploitabilité, conformité aux standards, choix de l’architecture et des technologies (30% de la note);
-- Ergonomie : facilité d’utilisation et design de l'information (30% de la note);
+- Pertinence par rapport au thème général, intérêt pour la DGFiP, portée et impact pour les utilisateurs (40 % de la note) ;
+- Qualité technique : exploitabilité, conformité aux standards, choix de l’architecture et des technologies (30% de la note) ;
+- Ergonomie : facilité d’utilisation et design de l'information (30% de la note) ;
 
 Le jury de l’Appel à Projet Hackathon de la DGFiP se réserve le droit d'exclure de la participation à l’appel à projet, avec avis motivé, les projets  
 
@@ -305,7 +302,7 @@ Deuxième place :
 Troisième place:
 
 - 500euros ("cinq cents euros") pour l’équipe
-- Possibilité pour les membres de l'équipe de réaliser un stage au sein d'un projet informatique de la DGFiP.
+- possibilité pour les membres de l'équipe de réaliser un stage au sein d'un projet informatique de la DGFiP.
 
 > La possibilité d'un stage ne revêt aucun caractère obligatoire, elle relève d’une opportunité basée sur le volontariat de la part de l’équipe lauréate.
 > 
@@ -354,13 +351,9 @@ Il est précisé que la DGFiP utilise la licence CeCILL 2.1, dans le cadre de la
 
 Ce faisant, les Groupes participants concèdent à la DGFIP les droits suivants :
 
-1. Droits d’Utilisation du logiciel, à savoir :
-a) la reproduction permanente ou provisoire du Logiciel en tout ou partie par tout moyen et sous toute forme.
-b) le chargement, l'affichage, l'exécution, ou le stockage du Logiciel sur tout support.
-c) la possibilité d'en observer, d'en étudier, ou d'en tester le fonctionnement afin de déterminer les idées et principes qui sont à la base de n'importe quel élément du Logiciel ; et ceci, lorsque la DGFIP effectue toute opération de chargement, d'affichage, d'exécution, de transmission ou de stockage du Logiciel qu'il est en droit d'effectuer en vertu de la licence libre.
+1. Droits d’Utilisation du logiciel, à savoir : a) la reproduction permanente ou provisoire du Logiciel en tout ou partie par tout moyen et sous toute forme. b) le chargement, l'affichage, l'exécution, ou le stockage du Logiciel sur tout support. c) la possibilité d'en observer, d'en étudier, ou d'en tester le fonctionnement afin de déterminer les idées et principes qui sont à la base de n'importe quel élément du Logiciel ; et ceci, lorsque la DGFIP effectue toute opération de chargement, d'affichage, d'exécution, de transmission ou de stockage du Logiciel qu'il est en droit d'effectuer en vertu de la licence libre.
 2. Droit d’apporter des contributions (traduire, adapter, arranger ou apporter toute autre modification)
-3. Droits de distribution (droit de diffuser, de transmettre et de communiquer le Logiciel au public sur tout support et par tout moyen)
-La DGFIP s'engage à ne pas supprimer ou modifier de quelque manière que ce soit les mentions de propriété intellectuelle apposées sur le Logiciel (respect du droit à la paternité de l’œuvre) ; ni à reproduire à l'identique lesdites mentions de propriété intellectuelle sur les copies du Logiciel modifié ou non.
+3. Droits de distribution (droit de diffuser, de transmettre et de communiquer le Logiciel au public sur tout support et par tout moyen) La DGFIP s'engage à ne pas supprimer ou modifier de quelque manière que ce soit les mentions de propriété intellectuelle apposées sur le Logiciel (respect du droit à la paternité de l’œuvre) ; ni à reproduire à l'identique lesdites mentions de propriété intellectuelle sur les copies du Logiciel modifié ou non.
 
 ### Article 10 – Autorisation de réutilisation non commerciale de l’image et des interventions des participants :
 

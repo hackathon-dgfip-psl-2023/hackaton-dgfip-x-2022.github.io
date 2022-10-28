@@ -2,38 +2,26 @@
 
 ### Bonjour à tous 👋
 
-La Direction Générale des Finances Publiques ("DGFiP") organise un hackathon visant à mettre en valeur ses données ouvertes. Cette compétition se tiendra les 1 et 2 décembre 2022. Les étudiants des meilleures écoles d’ingénieurs et universités françaises sont invités à concourir.
+La direction générale des Finances publiques ("DGFiP") organise un hackathon qui se tiendra les 1 et 2 décembre 2022.
 
-Ce document vous donne toutes les informations pratiques :
-- Présentation du concours
-- Présentation des défis
-- Conditions de participation
-- Récompenses : + de 4 000€, mise en relations avec des experts de la data…
+___
 
 ## I. Qui sommes-nous ?
 
-La DGFiP participe à la gestion des finances publiques en France, en matière de dépenses et de recettes : elle gère notamment la fiscalité de l’État et des collectivités territoriales qui s’impose aux particuliers et aux entreprises, et en assure le recouvrement au moyen de son réseau territorial.
+La DGFiP participe à la gestion des Finances publiques en France, en matière de dépenses et de recettes : elle gère notamment la fiscalité de l’État et des collectivités territoriales qui s’impose aux particuliers et aux entreprises, et en assure le recouvrement au moyen de son réseau territorial.
 
 Elle est placée sous la tutelle du ministère de l'Économie, des Finances et de la Relance ("MEFR"). 
 
-La Délégation à la Transformation numérique (“DTNum”) mène la transformation numérique de la DGFiP. Une cinquantaine de personnes travaille au sein de trois pôles dédiés: Données (open data, datascience), Culture numérique, et Expérience utilisateur.
+La Délégation à la Transformation Numérique (“DTNum”) mène la transformation numérique de la DGFiP. Une cinquantaine de personnes travaille au sein de trois pôles dédiés : Données (open data, datascience), Culture numérique, et Expérience utilisateur.
 
 Elle a été créée en 2021.
 
 ___
 
 
-## II. Appel à projets
+# II. Appel à projets
 
-### A. Règles du jeu
-
-Le présent concours vise à évaluer *le potentiel de réutilisation des jeux de données ouverts de la DGFiP*.
-
-À ce titre, les candidats sont invités, par équipes de 1 à 5 personnes, à s’approprier une problématique et à produire une solution technique ouverte et réutilisable qui y réponde en utilisant a minima un jeu de données de la DGFiP.
-
-### B. Choix du sujet
-
-Cette solution portera sur l’un des sujets suivants :
+Les participants devront par équipes de 5 (constituées le jour-même ou à l'avance) réaliser l'un des 2 défis suivants:
 
 **Défi 1** - Visualisation des transactions crypto à crypto via une base de données de type graphe :
 
@@ -68,10 +56,30 @@ Cette solution portera sur l’un des sujets suivants :
 >Commande :    
 >Via du moissonnage de données, vous veillerez à récupérer l’ensemble des informations disponibles en relation avec une adresse publique cryptographique, en fournissant les éléments de contexte de la page web dont elle est issue, par exemple si elle concerne une activité économique réalisée sur le territoire français.
 
+___
+
+# III. Calendrier et inscription
+
+### A. Calendrier détaillé
+
+- Inscriptions : 24 au 28 octobre 2022
+- Hackathon : 1 et 2 décembre
+- Délibérations du jury le 26 Mai
+- Délibérations du jury et désignation des gagnants : 2 décembre
+
+### B. Inscription
+
+Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 18 novembre 2022.
+
+**NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
+
+Pour s'inscrire:
+[https://www.galileo.finances.gouv.fr/index.php/195926?lang=fr](https://www.galileo.finances.gouv.fr/index.php/195926?lang=fr)
+
+___
 
 
-
-## III. Rendu attendu
+# IV. Rendu attendu
 
 ### A. Contenu du dossier à remettre
 
@@ -104,25 +112,7 @@ Une documentation technique au format PDF ou Markdown contenant a minima les él
   - Les instructions nécessaires à la reproduction de la solution
   - la liste de chacune des sources de données exploitées, l’url de celles-ci, ainsi que les mentions légales relatives à la réutilisation de ces jeux de données selon leur licence. 
 
-### B. Calendrier détaillé
-
-- Inscriptions : 24 au 28 octobre 2022
-- Hackathon : 1 et 2 décembre
-- Délibérations du jury le 26 Mai
-- Délibérations du jury et désignation des gagnants : 2 décembre
-
-### C. Inscription
-
-Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 29 Avril :
-
-[https://www.galileo.finances.gouv.fr/index.php/195926?lang=fr](https://www.galileo.finances.gouv.fr/index.php/195926?lang=fr)
-
-Pour concourir et valider le formulaire d'inscription, il vous sera demandé :
-
-- Le nom de votre équipe
-- L’école ou université de rattachement
-
-### D. Jury 
+### B. Jury 
 
 - **Gilles Tauzin** - Délégué à la Transformation Numérique - DGFiP 
 *Président du jury*
@@ -138,7 +128,7 @@ Pour concourir et valider le formulaire d'inscription, il vous sera demandé :
 - **Natkamon Tovanitch** - Post-doctorant au sein de la chaire blockchain et expert  visualisation blockchain à l’école polytechnique
 
 
-### F. Critères d'évaluation
+### C. Critères d'évaluation
 
 Le Jury sera particulièrement attentif aux éléments suivants :
 
@@ -162,7 +152,7 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 - Facilité de requêtage
 - Design de l’information
 
-### G. Récompenses
+### D. Récompenses
 
 > 🥇 **1er prix : 3000€ pour l’équipe**
 > 
@@ -180,84 +170,49 @@ Le Jury sera particulièrement attentif aux éléments suivants :
 ___
 
 
-# IV. Réglement et Contact   
+# V. Réglement et Contact   
 
 
-### RÈGLEMENT - Version au 14 Octobre 2022
-
-### RÈGLEMENT DE L’APPEL À PROJET OPEN DATA DE LA DGFiP    
+### RÈGLEMENT DE L’APPEL À PROJET HACKATHON DE LA DGFiP - Version au 14 octobre 2022
    
 
 ### Préambule :
 
-L’Appel à Projet Open Data de la Direction Générale des Finances Publiques ("DGFiP") s’inscrit dans la politique d’ouverture des données que la DGFiP a mise en place conformément aux dispositions des lois Valter (2015) et Lemaire (2016), ainsi que dans une démarche propre qui s'attache à resserrer ses liens avec l'écosystème de l'innovation numérique et renforcer son attractivité sur les métiers du numérique.
+L’Appel à Projet Hackathon de la Direction Générale des Finances Publiques ("DGFiP") s’inscrit dans la politique d’ouverture des données que la DGFiP a mise en place conformément aux dispositions des lois Valter (2015) et Lemaire (2016), ainsi que dans une démarche propre qui s'attache à resserrer ses liens avec l'écosystème de l'innovation numérique et renforcer son attractivité sur les métiers du numérique.
 
 ### Article 1 – Organisateur :
 
-L’entité organisatrice du présent Appel à Projet Open Data est la DGFiP du Ministère de l’Économie, des Finances et de la Relance ("MEFR").
+L’entité organisatrice du présent Appel à Projet Hackathon est la DGFiP du Ministère de l’Économie, des Finances et de la Relance ("MEFR").
 
 ### Article 2 – Objet de l’Appel à Projet Open Data :
 
-La DGFiP organise un Appel à Projet Open Data (ci-après également désigné « l’appel à projet»).
+La DGFiP organise un Appel à Projet Hackathon (ci-après également désigné « l’appel à projet»).   
 
-Le terme d’"Appel à Projet Open Data" désigne un concours destiné à développer des projets à partir de jeux de données ouverts de la DGFiP, technologiques ou non, de manière continue durant une période de temps donnée.
+Le terme d’"Appel à Projet Hackathon" désigne un concours destiné à développer des projets à partir de jeux de données en libre accès, technologiques ou non, de manière continue durant une période de temps donnée.    
 
-La durée du concours ainsi que le calendrier détaillé de l'événement sont disponibles en annexe du présent document.
+La durée du concours ainsi que le calendrier détaillé de l'événement sont disponibles en annexe du présent document.    
 
-L’objectif de cet appel à projet est de développer des projets utiles à la DGFiP à partir de ressources à la disposition des participants.
-
-Les réalisations des participants à l’appel à projet devront s’inscrire dans le thème de l’Appel à Projet Open Data préalablement choisi par la DGFiP.
-
+L’objectif de cet appel à projet est de développer des projets utiles à la DGFiP à partir de ressources à la disposition des participants.   
+ 
+Les réalisations des participants à l’appel à projet devront s’inscrire dans le thème de l’Appel à Projet Hackathon préalablement choisi par la DGFiP.   
+ 
 ### Article 3 – Annonce de l’Appel à Projet Open Data :
 
-L’Appel à Projet Open Data est annoncé par l’envoi d’une présentation aux bureaux des élèves des écoles et universités ciblées.
+L’Appel à Projet Hackathon est annoncé par l’envoi d’une présentation aux bureaux des élèves des écoles et universités ciblées.    
 
 ### Article 4 – Conditions et modalités de participation à l'appel à projet :
 
 #### 4.1 – Conditions d’inscription à l’appel à projet :
 
-L’appel à projet est ouvert à tous les étudiants des établissements français d'enseignement supérieur établis sur le territoire national, tels que listés sur la page https://www.campusfrance.org/fr/etablissements-enseignement-superieur-France , âgés de dix-huit (18) ans minimum.
+L’appel à projet est ouvert à tous les étudiants étant inscrits à l’Institut Polytechnique de Paris pour l’année 2022/2023.    
 
-Les candidatures ne remplissant pas ces conditions pourront se voir proposer de concourir hors compétition. 
+Les candidatures ne remplissant pas ces conditions pourront se voir proposer de concourir hors compétition.
 
 #### 4.2 - Participation hors compétition
 
-Les équipes qui acceptent de concourir hors compétition renoncent au versement des récompenses listées à l'article **7.1** infra. Elles restent liées par les autres termes du présent règlement, qui demeurent inchangés.  
+Les équipes qui acceptent de concourir hors compétition renoncent au versement des récompenses listées à l'article **7.1**. Elles restent liées par les autres termes du présent règlement, qui demeurent inchangés.
 
-#### 4.3 - Modalités d'inscription 
-
-Pour participer au concours, les candidats devront obligatoirement renseigner le formulaire disponible à l'adresse
-
-[https://framaforms.org/inscription-au-hackathon-open-data-des-finances-publiques-1647856985](https://framaforms.org/inscription-au-hackathon-open-data-des-finances-publiques-1647856985)
-
-avant la date limite de dépôt des candidatures précisée en annexe.
-
-Ce formulaire devra comporter :
-
-- Le nom de l'équipe
-- l'école ou université de rattachement
-- les Nom, Prénoms, identifiant GitHub de chaques participants
-- Le sujet choisi
-- La problématisation du sujet choisi sous la forme d'une question. Si cette condition s'impose dans le cas du choix du sujet libre, les participants ont la possibilité d'amender ou de proposer de nouvelles problématiques pour les sujets 1 et 2, sous réserve de faire usage des ensembles de données concernés.
-- Un descriptif sommaire de la manière dont l'équipe envisage de répondre à la problématique retenue.
-
-La personne ayant soumis le formulaire d'inscription est désignée comme le "représentant d’équipe". Le "représentant d’équipe" sera chargé des relations avec la DGFiP. Il est recommandé aux équipes d'utiliser l'identifiant Github du représentant d'équipe pour la soumission du rendu.
-
-La présentation du projet pourra être réalisée par le représentant d’équipe ou par l’ensemble de l’équipe.
-
-Le représentant d’équipe aura également la responsabilité de la répartition des lots entre les membres de l’équipe le cas échéant (voir infra - Article 7 du règlement).
-
-Par l'envoi du formulaire d'inscription, les candidats membres d'équipe s'engagent à se conformer au présent règlement.
-
-Les inscriptions sont ouvertes pendant la période précisée en annexe du présent document.
-
-Le nombre maximal de participants à l'appel à projet est fixé à cent (100) personnes.
-
-Aucune inscription ne sera prise en compte après l’expiration de la date limite d’inscription, et en tout état de cause, la DGFiP se réserve le droit d’accepter ou non les candidatures en fonction de la date d’inscription et du nombre de candidats auprès des écoles ciblées.
-
-Les personnes dûment inscrites à l'appel à projet sont ci-après dénommées « le(s) participant(s) ».
-
-### 4.2 – Conditions de participation à l'appel à projet :
+### 4.3 – Conditions de participation à l'appel à projet :
 
 Les participants à l'appel à projet devront réaliser un projet conforme à l’objet de l'appel à projet.
 
@@ -265,9 +220,8 @@ Les participants à l'appel à projet devront réaliser un projet conforme à l�
 
 ### 5.1 – Informations générales :
 
-L’appel à projet se déroule pendant une période précisée dans l'annexe "Calendrier détaillé" de ce document.
+L’appel à projet se déroule pendant une période précisée dans la partie "Calendrier et inscriptions" de ce document.
 
-Les participants doivent fournir leur projet à cette date. Le dernier "push" effectué avant la date limite sera pris en compte pour l'évaluation. Toute soumission postérieure à la date limite ne sera pas évaluée.
 
 ### 5.2 – Rendu :
 
@@ -280,7 +234,8 @@ Selon les choix faits par les participants, le rendu devra contenir :
 
 En tout état de cause, chaque rendu devra contenir a minima:
 
-- Un document de synthèse (ci-après désigné "le document de synthèse") au format PDF ou vidéo comportant : - une explication de la démarche poursuivie
+- Un document de synthèse (ci-après désigné "le document de synthèse") au format PDF ou vidéo comportant : 
+    - une explication de la démarche poursuivie
     - la formulation d'une problématique explicite sous la forme d'une question.
     - un bref descriptif de la solution mise en oeuvre pour y répondre
 
@@ -297,29 +252,24 @@ Cette documentation technique devra contenir *a minima* :
 - une présentation étayée des choix techniques retenus si pertinent
 - la liste de chacune des sources de données exploitées, leur url, licence, et la reproduction des mentions légales relatives à la réutilisation de ces jeux de données selon leur type de licence.
 
-Le calendrier détaillé de l’appel à projet figure en annexe du présent règlement.
 
 ### 5.3 – Données mises à disposition des participants :
 
-Le présent appel à projet vise à faire exploiter par les participants les jeux de données ouverts de la DGFiP. Les jeux de données ouverts produits par la DGFiP sont accessibles à l'url [https://data.economie.gouv.fr/explore/?sort=modified&refine.publisher=DGFiP](https://data.economie.gouv.fr/explore/?sort=modified&refine.publisher=DGFiP)
-
-Les participants sont invités à utiliser d'autres jeux de données ouverts pour les croiser avec les ensembles de données de la DGFiP.
-
-À ce titre, les participants sont libres d'utiliser tout jeu de données reposant sur l'une des licences ouvertes telles que présentes sur les sites [https://data.gouv.fr](https://data.gouv.fr/) et [https://data.economie.gouv.fr](https://data.economie.gouv.fr/), sous réserve du respect des termes de la-dite licence, notamment en terme de publication des mentions légales.
+Le présent appel à projet vise à faire exploiter par les participants les jeux de données ouverts de la DGFiP. Les jeux de données ouverts produits par la DGFiP sont accessibles par le biais de serveurs mis à disposition des étudiants par la DGFiP.
 
 ### Article 6 – Présentation des projets à la DGFiP :
 
-Le livrable du projet (ci-après le « livrable ») est constitué de l’ensemble de la documentation technique, du document de synthèse, de tout script, code et paramétrage permettant la mise en oeuvre de la solution technique, de tout élément de configuration ou paramétrage de l'outil Tableau et de toute idée menée et utilisé aux fins de la compétition.
+Le livrable du projet (ci-après le « livrable ») est constitué de l’ensemble de la documentation technique, du document de synthèse, de tout script, code et paramétrage permettant la mise en œuvre de la solution technique, de tout élément de configuration ou paramétrage du graphe et de toute idée menée et utilisé aux fins de la compétition.
 
 ### Article 7 – Sélection des lauréats par La DGFiP :
 
-Le jury de l’appel à projet (ci-après désigné « le jury ») choisira les projets qu'il estime les plus aboutis dans l'exploitation des jeux de données ouverts de la DGFiP.
+Le jury de l’appel à projet (ci-après désigné « le jury ») choisira les projets qu'il estime les plus aboutis dans l'exploitation des jeux de données ouverts de la DGFiP.    
 
-Le jury est composé de personnels qualifiés de la DGFiP et de personnalités extérieures reconnues pour leur expertise en matière technologique, d’innovation ou d’usage de données.
+Le jury est composé de personnels qualifiés de la DGFiP et de personnalités extérieures reconnues pour leur expertise en matière technologique, d’innovation ou d’usage de données.    
 
-Les participants sont alertés sur le fait que la composition du jury telle qu'annoncée dans le document de présentation du concours est susceptible d'évolution, et ne revêt pas de caractère contractuel.
+Les participants sont alertés sur le fait que la composition du jury telle qu'annoncée dans le document de présentation du concours est susceptible d'évolution, et ne revêt pas de caractère contractuel.    
 
-Le jury évaluera les projets soumis par les participants de l’Appel à Projet Open Data en fonction de différents critères, énoncés ci-après :
+Le jury évaluera les projets soumis par les participants de l’Appel à Projet Hackathon en fonction de différents critères, énoncés ci-après :   
 
 - Pertinence par rapport au thème général, intérêt pour la DGFiP, portée et impact pour les utilisateurs (40 % de la note);
 - Qualité technique : exploitabilité, conformité aux standards, choix de l’architecture et des technologies (30% de la note);
@@ -331,7 +281,6 @@ Le jury de l’Appel à Projet Open Data de la DGFiP se réserve le droit d'excl
 - non conformes au thème de l’appel à projet;
 - reçus après la date de clôture annoncée.
 
-Les équipes lauréates s'engagent à présenter leur projet au cours d'un "évènement OpenData DGFiP" qui se tiendra le 3 Juin 2022. 
 
 #### 7.1 - Récompenses
 
@@ -369,13 +318,13 @@ Répartition des lots : la responsabilité de la répartition des lots au sein d
 
 8.2 – Le participant s’engager à signer la charte du participant communiqué en annexe avant le début du hackathon 2022 et à respecter toutes les obligations décrites dans la charte susmentionnée.
 
-8.3 – Le participant est seul responsable de ses matériels et logiciels, dont il conserve la garde, et des éventuels dommages qui pourraient survenir sur ses matériels et logiciels dans le cadre de l’Appel à Projet Open Data de la DGFiP.
+8.3 – Le participant est seul responsable de ses matériels et logiciels, dont il conserve la garde, et des éventuels dommages qui pourraient survenir sur ses matériels et logiciels dans le cadre de l’Appel à Projet Hackathon de la DGFiP.
 
 8.4 – Le participant déclare et garantit à la DGFiP qu’elle dispose de l’intégralité et de l’exclusivité des droits de propriété intellectuelle afférents aux créations constitutives du projet qu’il réalise dans le cadre de l'appel à projet et à sa documentation afférente, ou qu’il est dûment autorisé à agir au nom et pour le compte du ou des autres titulaire(s) des droits sur ce projet et sur la documentation afférente.
 
-Le participant garantit la DGFiP contre tout recours de tiers à cet égard et reconnaît être informé qu’il sera tenu pour seul responsable en cas de violation de la présente obligation de garantie.
+Le participant garantit la DGFiP contre tout recours de tiers à cet égard et reconnaît être informé qu’il sera tenu pour seul responsable en cas de violation de la présente obligation de garantie.    
 
-Ces déclarations et garanties couvrent l’intégralité des éléments du livrable.
+Ces déclarations et garanties couvrent l’intégralité des éléments du livrable.   
 
 8.5 – La DGFiP se réserve le droit d’écourter, modifier ou annuler le présent appel à projet à tout moment, sans préavis et sans qu’il puisse être prétendu à aucune indemnité par les participants.
 
@@ -399,13 +348,13 @@ Il est rappelé qu’un logiciel se présente sous deux formes : un Code Source,
 
 Le droit d’auteur français protège le code source comme s’il s’agissait d’une œuvre littéraire. Toutefois c’est la manière de structurer le code source, telle qu’elle est matérialisée par une suite de signes, qui fera l’objet de la protection par le droit d’auteur, sachant que la fonctionnalité n’est pas protégeable ni protégée.
 
-Les groupes participants à l’événement OpenData 2022 resteront ainsi titulaires du code source qu’ils ont développé et jouiront de toutes les prérogatives qui y sont liées au niveau des droit moraux, conformément aux principes du Code de la Propriété Intellectuelle.
+Les groupes participants à l’événement Hackathon 2022 resteront ainsi titulaires du code source qu’ils ont développé et jouiront de toutes les prérogatives qui y sont liées au niveau des droit moraux, conformément aux principes du Code de la Propriété Intellectuelle.   
 
 Néanmoins la DGFiP, dans un souci de contribution collective à l'esprit d'ouverture des données publiques, invite les participants à adopter une licence libre parmi les suivantes pour développer leur projet :
 _CeCILL 2.1
 _Etalab 2.0
 
-Il est précisé que la DGFiP utilise la licence CeCILL 2.1, dans le cadre de la loi pour une République numérique, et, à ce titre, elle encourage fortement les groupes participants à développer leur projet sous ladite licence.
+Il est précisé que la DGFiP utilise la licence CeCILL 2.1, dans le cadre de la loi pour une République numérique, et, à ce titre, elle encourage fortement les groupes participants à développer leur projet sous ladite licence.    
 
 Ce faisant, les Groupes participants concèdent à la DGFIP les droits suivants :
 
@@ -496,6 +445,6 @@ Des questions sur l’appel à projets ? Besoin d’informations complémentaire
 ___
 
 
-## V. Charte du participant
+## VI. Charte du participant
 
 **Consulter la [Charte du participant](https://github.com/hackaton-dgfip-x-2022/hackaton-dgfip-x-2022.github.io/blob/master/Hackathon_Charte%20du%20participant-V1.odt?raw=true)**

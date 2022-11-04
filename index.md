@@ -28,7 +28,7 @@ Les participants devront par équipes de 5 (constituées le jour-même ou à l'a
 > Le développement récent des actifs numériques s’est en partie accompagné, ces dernières années, d’une augmentation des manquements délibérés de déclaration des revenus issus des nombreux usages permis par les technologies sous-jacentes (cessions occasionnelles, trading, staking, minage...etc).
 >
 >À terme, à partir d’une adresse publique cryptographique, utilisée sur un registre public (une blockchain comme Bitcoin ou Ethereum), et dont ils ont déjà connaissance, les services du Contrôle Fiscal devront :
->- ppréhender l’ensemble des transactions entre cette adresse publique et d’autres adresses publiques cryptographiques formant un ensemble cohérent
+>- appréhender l’ensemble des transactions entre cette adresse publique et d’autres adresses publiques cryptographiques formant un ensemble cohérent
 >- identifier ensuite les entités qui effectuent ces transactions sous le pseudonymat des adresses publiques cryptographiques de chaque blockchain utilisée.
 >
 >Commande :  
@@ -63,12 +63,13 @@ ___
 ### A. Calendrier détaillé
 
 - Inscriptions : jusqu’au 18 novembre 2022
+- Webinaire d'informations sur le déroulé des défis : 25 novembre 2022 18h (en ligne)
 - Hackathon : 1 et 2 décembre 2022
 - Délibérations du jury et désignation des gagnants : 2 décembre 2022
 
 ### B. Inscription
 
-Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 18 novembre 2022.
+Pour vous inscrire, renseignez le formulaire en ligne par équipe à cette adresse avant le 18 novembre 2022. **Places limitées à 50 participants.**
 
 **NB : les participants devront se doter de leur ordinateur personnel afin de concourir au hackathon.**
 
@@ -82,7 +83,7 @@ ___
 
 ### A. Contenu du dossier à remettre
 
-Les équipes devront restituer leurs productions dans qui leur sera communiqué au lancement du concours. Le dossier à remettre doit comporter les éléments suivants :
+Les équipes devront restituer leurs productions dans le délai qui leur sera communiqué au lancement du concours. Le dossier à remettre doit comporter les éléments suivants :
 
    **- Solution technique**
 
@@ -100,7 +101,7 @@ Un document explicatif au format vidéo (maximum 3 minutes) ou PDF (maximum 20 p
 
 NB : cela est nécessaire dans le cadre du choix du sujet Libre. S’agissant des deux autres sujets, les participants ont la possibilité d’amender la question initiale s’ils l’estiment justifié.
 
-  - Bn bref descriptif de la solution mise en œuvre pour y répondre.
+  - Un bref descriptif de la solution mise en œuvre pour y répondre.
 
 Ce document pourra être enrichi par tout élément ou réflexion que les participants jugent pertinents (utilisateurs pressentis, cas d’usage identifiés, qualité de la donnée source, etc.)
 
@@ -311,9 +312,9 @@ Répartition des lots : la responsabilité de la répartition des lots au sein d
 
 ### Article 8 – Garanties et responsabilités :
 
-8.1 – Le participant s’engage à fournir, dans son formulaire d’inscription à l’appel à projet, des informations réelles et sérieuses le concernant.   
+8.1 – Le participant s’engage à fournir, dans son formulaire d’inscription à l’appel à projet, des informations réelles et sérieuses le concernant.
 
-8.2 – Le participant s’engager à signer la charte du participant communiqué en annexe avant le début du hackathon 2022 et à respecter toutes les obligations décrites dans la charte susmentionnée.   
+8.2 – Le participant s’engage à signer la charte du participant communiqué en annexe avant le début du hackathon 2022 et à respecter toutes les obligations décrites dans la charte susmentionnée.  
 
 8.3 – Le participant est seul responsable de ses matériels et logiciels, dont il conserve la garde, et des éventuels dommages qui pourraient survenir sur ses matériels et logiciels dans le cadre de l’Appel à Projet Hackathon de la DGFiP.   
 
@@ -388,7 +389,8 @@ Conformément à la loi « Informatique et Libertés » du 6 janvier 1978 modifi
 Pour toute demande relative à l'exercice de droits sur des données personnelles, il convient de nous contacter par courriel à l'adresse suivante :
 [dtnum.communication@dgfip.finances.gouv.fr](mailto:dtnum.communication@dgfip.finances.gouv.fr)
 
-Vous avez également la possibilité d’adresser votre demande au délégué à la protection des données du ministère de l’Économie, des Finances et de la Relance par voie électronique ([le-delegue-a-la-protection-des-donnees-personnelles@finances.gouv.fr](mailto:le-delegue-a-la-protection-des-donnees-personnelles@finances.gouv.fr)) ou par voie postale (139 rue de Bercy, Télédoc 322, 75572 PARIS CEDEX 12).
+Vous avez également la possibilité d’adresser votre demande à l'équipe gouvernance de la donnée par voie électronique (dtnum.donnees.gouvernance@dgfip.finances.gouv.fr) ou par voie postale (DTNum - Gouvernance de la Donnée - Immeuble Maille Nord 3 Hall A - 9 porte de Neuilly, 93192 Noisy-le-Grand Cedex ).
+
 
 Si vous estimez que le traitement de vos données à caractère personnel n'est pas conforme aux dispositions légales et réglementaires, vous disposez, en outre, du droit d'introduire une réclamation auprès de la Commission nationale de l’informatique et des libertés (CNIL) par le biais de son formulaire en ligne sur son site internet ou par voie postale.
 
